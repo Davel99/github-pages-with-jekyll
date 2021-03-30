@@ -1,3 +1,5 @@
-# Welcome to my blog
+# ¡Bienvenido a mi blog!
 
-I'm glad you are here. I plan to talk about ...
+Utilizaré esto para resumir mi currículum
+
+<b> ¡Aquí está la lisa de cosas que he aprendido! </b>
